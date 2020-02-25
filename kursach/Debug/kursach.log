@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\admin\source\repos\kursach\kursach\main.cpp(104): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  kursach.vcxproj -> C:\Users\ADMiN\source\repos\kursach\Debug\kursach.exe

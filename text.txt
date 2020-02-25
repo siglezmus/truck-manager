@@ -1,0 +1,2 @@
+Year: 2016 Month: 1Day: 1Length: 1Weight: 1Target: 1Carrying: 1 Fuel consumption: 1Order price: 10Year: 2016 Month: 1Day: 1Consumed fuel: 0.01
+
